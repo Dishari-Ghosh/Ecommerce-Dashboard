@@ -1,0 +1,50 @@
+CustomerID,CustomerName,Segment,Country,Region,City
+C001,Aryan Reddy,Consumer,India,West,Ahmedabad
+C002,Ishaan Patel,Corporate,India,West,Ahmedabad
+C003,Aryan Kapoor,Corporate,India,South,Hyderabad
+C004,Vihaan Mehta,Home Office,India,West,Pune
+C005,Arjun Patel,Consumer,India,West,Surat
+C006,Vivaan Joshi,Corporate,India,South,Bangalore
+C007,Vivaan Reddy,Consumer,India,East,Kolkata
+C008,Kabir Gupta,Corporate,India,West,Surat
+C009,Dhruv Kapoor,Consumer,India,West,Surat
+C010,Krishna Sharma,Home Office,India,North,Jaipur
+C011,Vihaan Patel,Corporate,India,West,Mumbai
+C012,Dhruv Verma,Corporate,India,South,Chennai
+C013,Vivaan Kapoor,Consumer,India,South,Hyderabad
+C014,Aditya Malhotra,Consumer,India,West,Ahmedabad
+C015,Ishaan Patel,Corporate,India,West,Mumbai
+C016,Kabir Reddy,Home Office,India,North,Jaipur
+C017,Aryan Mehta,Consumer,India,East,Kolkata
+C018,Ishaan Patel,Consumer,India,South,Hyderabad
+C019,Dhruv Mehta,Consumer,India,North,Jaipur
+C020,Vihaan Mehta,Corporate,India,South,Chennai
+C021,Kabir Nair,Corporate,India,South,Chennai
+C022,Ishaan Verma,Corporate,India,South,Chennai
+C023,Arjun Nair,Corporate,India,West,Mumbai
+C024,Aditya Verma,Home Office,India,West,Mumbai
+C025,Vivaan Mehta,Home Office,India,West,Ahmedabad
+C026,Ishaan Gupta,Corporate,India,West,Ahmedabad
+C027,Aryan Reddy,Home Office,India,East,Kolkata
+C028,Kabir Nair,Consumer,India,South,Hyderabad
+C029,Krishna Sharma,Consumer,India,North,Delhi
+C030,Aditya Reddy,Consumer,India,North,Delhi
+C031,Ishaan Sharma,Corporate,India,North,Jaipur
+C032,Vihaan Sharma,Consumer,India,South,Chennai
+C033,Kabir Reddy,Home Office,India,South,Hyderabad
+C034,Ishaan Verma,Corporate,India,West,Surat
+C035,Krishna Patel,Home Office,India,West,Mumbai
+C036,Kabir Nair,Consumer,India,West,Pune
+C037,Dhruv Nair,Consumer,India,South,Bangalore
+C038,Krishna Patel,Consumer,India,East,Kolkata
+C039,Ishaan Verma,Corporate,India,South,Chennai
+C040,Krishna Nair,Home Office,India,South,Chennai
+C041,Aryan Reddy,Corporate,India,South,Chennai
+C042,Vivaan Reddy,Corporate,India,West,Mumbai
+C043,Aarav Patel,Consumer,India,West,Mumbai
+C044,Aarav Joshi,Corporate,India,South,Bangalore
+C045,Aryan Malhotra,Corporate,India,West,Surat
+C047,Aryan Reddy,Consumer,India,South,Hyderabad
+C048,Dhruv Mehta,Corporate,India,South,Chennai
+C049,Aditya Gupta,Consumer,India,North,Delhi
+C050,Vihaan Mehta,Consumer,India,West,Ahmedabad
